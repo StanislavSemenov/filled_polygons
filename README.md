@@ -24,19 +24,21 @@
  1. Клонируйте репозиторий (если вы используете Git) или создайте новый проект Next.js, как описано в предыдущих шагах:
 
    #### bash
-    ```npx create-next-app@latest```
-    (Выберите TypeScript, ESLint, Tailwind CSS, src/ directory, App Router).
+   ```npx create-next-app@latest```
+
+   (Выберите TypeScript, ESLint, Tailwind CSS, src/ directory, App Router).
 
  2. Перейдите в директорию проекта:
 
   #### bash
-   ```cd [имя_вашего_проекта]```
+  cd [имя_вашего_проекта]
    
  3. Установите и настройте shadcn/ui:
   
   #### bash
   ```npx shadcn-ui@latest init```
   ```npx shadcn-ui@latest add card label textarea badge```
+
  4. Запустите проект в режиме разработки:
 
   #### bash

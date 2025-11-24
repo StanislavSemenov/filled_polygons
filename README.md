@@ -33,8 +33,8 @@
    
  3. **Установите и настройте** shadcn/ui:
   
-    ```npx shadcn-ui@latest init```
-    ```npx shadcn-ui@latest add card label textarea badge```
+    ```npx shadcn@latest init```
+    ```npx shadcn@latest add card label textarea badge```
 
  4. **Запустите проект** в режиме разработки:
     ```npm run dev```
